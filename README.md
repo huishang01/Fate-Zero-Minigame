@@ -1,4 +1,4 @@
-Fate Zero Minigame 是一款控制台RPG同人小游戏。
+Fate Zero Minigame 是一款以原生 Python 的控制台 RPG 同人小游戏。
 
 运行 main.py 即可开始游戏。 
 
